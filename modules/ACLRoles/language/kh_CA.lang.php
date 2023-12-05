@@ -1,0 +1,37 @@
+<?php
+
+$mod_strings=array (
+    'LBL_ACCESS_DEFAULT' => 'មិន​កំណត់',
+    'LBL_ACTION_ADMIN' => 'ប្រភេទនៃការចូលប្រើប្រាស់',
+    'LBL_ALL' => 'ទាំងអស់',
+    'LBL_COULD_NOT_CONNECT' => 'មិន​អាច​ត​ភ្ជាប់​បាន',
+    'LBL_CREATE_ROLE' => 'បង្កើត​តួនាទី',
+    'LBL_DESCRIPTION' => 'សេក្ដីពណ៌នា',
+    'LBL_DONE' => 'រួចរាល់',
+    'LBL_DUPLICATE_OF' => 'ស្ទួន',  //ស្ទួននៃ
+    'LBL_EDIT_VIEW_DIRECTIONS' => 'ចុចពីរដងលើក្រឡាដើម្បីផ្លាស់ប្តូរតម្លៃ។',
+    'LBL_LIST_FORM_TITLE' => 'តួនាទី',
+    'LBL_MODULE_NAME' => 'តួនាទី',
+    'LBL_MODULE_NAME_SINGULAR' => 'តួនាទី',
+    'LBL_MODULE_TITLE' => 'តួនាទី: ទំព័រដើម',
+    'LBL_NAME' => 'ឈ្មោះ',
+    'LBL_NO_MODULES_AVAILABLE' => 'មិនមាន Module ដែលអាចប្រើបានទេ។',
+    'LBL_NO_ROLES' => 'គ្មាន​តួនាទី',
+    'LBL_ROLE' => 'តួនាទី',
+    'LBL_ROLES_SUBPANEL_TITLE' => 'តួនាទី​អ្នក​ប្រើប្រាស់',
+    'LBL_SEARCH_FORM_TITLE' => 'ស្វែងរក',
+    'LBL_USERS_SUBPANEL_TITLE' => 'អ្នក​ប្រើប្រាស់',
+    'LBL_USER_NAME_FOR_ROLE' => 'អ្នក​ប្រើប្រាស់/មជ្ឈមណ្ឌល/តួនាទី',
+    'LIST_ROLES' => 'បញ្ជី​តួនាទី',
+    'LIST_ROLES_BY_USER' => 'បញ្ជី​តួនាទី​តាម​អ្នក​ប្រើ',
+    'LBL_CHANGE_ALL_ROLE' => 'សកម្មភាពនេះនឹងផ្លាស់ប្តូរតួនាទីនៃសកម្មភាពទាំងអស់។',
+    'LBL_DASHBOARD_ID' => 'ID ផ្ទាំងគ្រប់គ្រង',
+    'LBL_DASHBOARD' => 'ផ្ទាំងគ្រប់គ្រង',
+    'LBL_ROLE_DASHBOARD' => 'ផ្ទាំងគ្រប់គ្រងតួនាទី',
+    'LBL_READONLY_ROLE' => 'តួនាទី​នេះ​មិន​អាច​កែប្រែ​បាន។ សូម​ទំនាក់ទំនង​ទៅកាន់​អ្នក​គ្រប់គ្រង​ប្រើ​ប្រាស់​ដើម្បី​ទទួលបាន​ការ​គាំទ្រ​ក្នុង​ការ​កែប្រែ​នៅពេល​ចាំបាច់!',
+
+    'LBL_LOCK_DATED' => '*ការអនុញ្ញាត៖ ចាក់សោកាលបរិច្ឆេទចាស់',
+    'LBL_IS_ADMIN_GBS' => '*ការអនុញ្ញាត: អនុញ្ញាតឲ្យស្វែងរកទាំងអស់',
+    'LBL_SPECIAL_ROLE' => '*តួនាទី​ពិសេស',
+    'LBL_SPECIAL_ROLE_DES' => '*នេះគឺជាតួនាទីពិសេស។ សូមទាក់ទងអ្នកគ្រប់គ្រងសម្រាប់ការចូលប្រើ និងកែប្រែ!',
+);
