@@ -1,6 +1,6 @@
 <?php
 
-$mod_strings=array (
+$mod_strings = array(
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Hoạt động',
   'LBL_ASSIGNED_TO_ID' => 'ID Người phụ trách',
   'LBL_ASSIGNED_TO_NAME' => 'Người phụ trách',
