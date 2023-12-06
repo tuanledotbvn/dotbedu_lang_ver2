@@ -44,5 +44,5 @@ $mod_strings=array (
   'LNK_IMPORT_CUSTOMER_JOURNEY_STAGE_TEMPLATES' => 'នាំចូលគំរូឆាករបស់អតិថិជន',
   'LNK_LIST' => 'គំរូឆាករបស់អតិថិជន',
   'LNK_NEW_RECORD' => 'បង្កើតគំរូដំណាក់កាលរបស់អតិថិជន',
-  'LNK_VIEW_RECORDS' => 'មើលគំរូដំណាក់កាលរបស់អតិថិជន
+  'LNK_VIEW_RECORDS' => 'មើលគំរូដំណាក់កាលរបស់អតិថិជន'
 );
