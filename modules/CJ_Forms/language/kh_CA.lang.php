@@ -2,7 +2,7 @@
 
 $mod_strings=array (
   'LBL_CREATED' => 'បង្កើតដោយ',
-  'LBL_CREATED_ID' => 'បង្កើតដោយលេខសម្គាល់',
+  'LBL_CREATED_ID' => 'បង្កើត​ដោយ ID',
   'LBL_CREATED_USER' => 'បង្កើតដោយអ្នកប្រើប្រាស់',
   'LBL_DATE_ENTERED' => 'កាលបរិច្ឆេទបង្កើត',
   'LBL_DATE_MODIFIED' => 'កាលបរិច្ឆេទដែលបានកែប្រែ',
@@ -16,7 +16,7 @@ $mod_strings=array (
   'LBL_LOCKED_FIELDS' => 'វាលត្រូវបានចាក់សោសម្រាប់ការកែសម្រួល',
   'LBL_LOCKED_FIELDS_LINK' => 'វាលត្រូវបានចាក់សោសម្រាប់ការកែសម្រួល',
   'LBL_MODIFIED' => 'កែប្រែដោយ',
-  'LBL_MODIFIED_ID' => 'កែប្រែដោយលេខសម្គាល់',
+  'LBL_MODIFIED_ID' => 'កែប្រែដោយ ID',
   'LBL_MODIFIED_NAME' => 'កែប្រែតាមឈ្មោះ',
   'LBL_MODIFIED_USER' => 'កែប្រែដោយអ្នកប្រើប្រាស់',
   'LBL_NAME' => 'ឈ្មោះ',
@@ -25,6 +25,6 @@ $mod_strings=array (
   'LBL_TAGS_LINK' => 'ស្លាក',
   'LBL_TEAM' => 'មជ្ឈមណ្ឌល',
   'LBL_TEAMS' => 'មជ្ឈមណ្ឌល',
-  'LBL_TEAM_ID' => 'លេខសម្គាល់ក្រុម',
+  'LBL_TEAM_ID' => 'ក្រុម ID',
   'LBL_USER_FAVORITES' => 'អ្នកប្រើប្រាស់ដែលចូលចិត្ត',
 );
