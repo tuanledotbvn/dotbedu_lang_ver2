@@ -54,5 +54,5 @@ $mod_strings=array (
   'LBL_TARGET_TRACKER_KEY' => 'គ្រាប់ចុចតាមដានគោលដៅ',
   'LBL_TARGET_TYPE' => 'ប្រភេទគោលដៅ',
   'LBL_TEAM' => 'ក្រុម៖ ',
-  'LBL_URL_CLICKED' => 'url ចុច',
+  'LBL_URL_CLICKED' => 'URL ចុច',
 );
