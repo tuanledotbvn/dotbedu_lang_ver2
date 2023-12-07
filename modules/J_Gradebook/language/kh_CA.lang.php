@@ -128,36 +128,36 @@ $mod_strings = array(
   'LBL_DATE_EXAM' => 'កាលបរិច្ឆេទប្រឡង',
   'LBL_ACTION' => 'សកម្មភាព',
   'LBL_TEACHER_COMMENT' => 'មតិរបស់គ្រូ',
-  'LBL_DOWNLOAD_FILE' => 'ទាញយកគំរូimport'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  , , 'LBL_IMPORTF' => 'នាំចូល', 'LBL_GRADEBOOK_NAME' => 'ឈ្មោះសៀវភៅថ្នាក់', 'LBL_CLASS_NAME' => 'ឈ្មោះថ្នាក់', 'LBL_TEACHER_NAME' => 'ឈ្មោះគ្រូ', 'LBL_ADD_STUDENT' => 'បន្ថែមសិស្ស', 'LBL_ADD' => 'បន្ថែម', 'LBL_CLOSE' => 'បិទ', 'LBL_REMOVE_STUDENT' => 'ដកចេញពីតារាងពិន្ទុ', 'LBL_NO' => 'STT', 'LBL_STUDENT_ALERT_ADD' => 'សិស្សមិនទាន់ត្រូវបានបន្ថែមទៅប្រតិចារិកនៅឡើយទេ!', 'LBL_STUDENT_ALERT1' => 'តើអ្នកប្រាកដថាចង់បន្ថែមសិស្សនេះទេ?', 'LBL_STUDENT_ALERT2' => 'សូមជ្រើសរើសសិស្ស!', 'LBL_STUDENT_ALERT3' => 'សិស្សត្រូវបានដកចេញពីប្រតិចារិក!', 'LBL_STUDENT_ALERT3_1' => 'បានបន្ថែមសិស្សដោយជោគជ័យ។', 'LBL_STUDENT_ALERT4' => 'សារបានផ្ញើទៅកម្មវិធីសិស្សដោយជោគជ័យ,', 'LBL_STUDENT_ALERT5' => 'ការផ្ញើសារទៅកម្មវិធីសិស្សបានបរាជ័យ សូមព្យាយាមម្តងទៀត!', 'LBL_ERROR_OCCURRED' => 'មានកំហុសកើតឡើង សូមព្យាយាមម្តងទៀត។', 'LBL_LISTVIEW_FILTER_ALL' => 'ប្រតិចារិកទាំងអស់', 'LBL_ALERT_REMOVE' => 'តើអ្នកប្រាកដថាចង់ដកសិស្សចេញពីប្រតិចារិកនេះទេ?', 'LBL_ALERT_DELETE_DB' => 'តើអ្នកប្រាកដថាចង់លុបតារាងពិន្ទុនេះទេ?', 'LBL_ALERT_DELETED' => 'តារាងពិន្ទុត្រូវបានលុប។', 'LBL_SAVED_SUCCESS' => 'បានរក្សាទុកដោយជោគជ័យ។', 'LBL_ALERT_RELOAD_CONFIG' => 'តើអ្នកប្រាកដថាចង់ផ្ទុកការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុនេះឡើងវិញទេ?', 'LBL_UPLOADING' => 'កំពុងផ្ទុកឡើង...', 'LBL_PROCESSING' => 'កំពុងដំណើរការ...', 'LBL_EXPORTING' => 'Đang xuất file...', 'LBL_IMPORT_GB' => 'Nhập bảng điểm từ file', 'LBL_GRADEBOOK_DETAIL' => 'ព័ត៌មានលម្អិតតារាងពិន្ទុ', 'LBL_ALERT_VALID_INPUT' => 'សូមបញ្ចូលតម្លៃត្រឹមត្រូវ', 'LBL_ERR_GBSETTING1' => 'កំហុស! មិនមានការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុទេ។', 'LBL_ERR_GBSETTING2' => 'កំហុស! ការកំណត់រចនាសម្ព័ន្ធនេះត្រូវបានប្រើប្រាស់រួចហើយ។',
+  'LBL_DOWNLOAD_FILE' => 'ទាញយកគំរូimport',
+  'LBL_IMPORTF' => 'នាំចូល',
+  'LBL_GRADEBOOK_NAME' => 'ឈ្មោះសៀវភៅថ្នាក់',
+  'LBL_CLASS_NAME' => 'ឈ្មោះថ្នាក់',
+  'LBL_TEACHER_NAME' => 'ឈ្មោះគ្រូ',
+  'LBL_ADD_STUDENT' => 'បន្ថែមសិស្ស',
+  'LBL_ADD' => 'បន្ថែម',
+  'LBL_CLOSE' => 'បិទ',
+  'LBL_REMOVE_STUDENT' => 'ដកចេញពីតារាងពិន្ទុ',
+  'LBL_NO' => 'លំដាប់លេខ',
+  'LBL_STUDENT_ALERT_ADD' => 'សិស្សមិនទាន់ត្រូវបានបន្ថែមទៅប្រតិចារិកនៅឡើយទេ!',
+  'LBL_STUDENT_ALERT1' => 'តើអ្នកប្រាកដថាចង់បន្ថែមសិស្សនេះទេ?',
+  'LBL_STUDENT_ALERT2' => 'សូមជ្រើសរើសសិស្ស!',
+  'LBL_STUDENT_ALERT3' => 'សិស្សត្រូវបានដកចេញពីប្រតិចារិក!',
+  'LBL_STUDENT_ALERT3_1' => 'បានបន្ថែមសិស្សដោយជោគជ័យ។',
+  'LBL_STUDENT_ALERT4' => 'សារបានផ្ញើទៅកម្មវិធីសិស្សដោយជោគជ័យ,',
+  'LBL_STUDENT_ALERT5' => 'ការផ្ញើសារទៅកម្មវិធីសិស្សបានបរាជ័យ សូមព្យាយាមម្តងទៀត!',
+  'LBL_ERROR_OCCURRED' => 'មានកំហុសកើតឡើង សូមព្យាយាមម្តងទៀត។',
+  'LBL_LISTVIEW_FILTER_ALL' => 'ប្រតិចារិកទាំងអស់',
+  'LBL_ALERT_REMOVE' => 'តើអ្នកប្រាកដថាចង់ដកសិស្សចេញពីប្រតិចារិកនេះទេ?',
+  'LBL_ALERT_DELETE_DB' => 'តើអ្នកប្រាកដថាចង់លុបតារាងពិន្ទុនេះទេ?',
+  'LBL_ALERT_DELETED' => 'តារាងពិន្ទុត្រូវបានលុប។',
+  'LBL_SAVED_SUCCESS' => 'បានរក្សាទុកដោយជោគជ័យ។',
+  'LBL_ALERT_RELOAD_CONFIG' => 'តើអ្នកប្រាកដថាចង់ផ្ទុកការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុនេះឡើងវិញទេ?',
+  'LBL_UPLOADING' => 'កំពុងផ្ទុកឡើង...',
+  'LBL_PROCESSING' => 'កំពុងដំណើរការ...',
+  'LBL_EXPORTING' => 'ដេលហយសសម័យ file...',
+  'LBL_IMPORT_GB' => 'បញ្ចូលប្រតិចារិកពី file',
+  'LBL_GRADEBOOK_DETAIL' => 'ព័ត៌មានលម្អិតតារាងពិន្ទុ',
+  'LBL_ALERT_VALID_INPUT' => 'សូមបញ្ចូលតម្លៃត្រឹមត្រូវ',
+  'LBL_ERR_GBSETTING1' => 'កំហុស! មិនមានការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុទេ។',
+  'LBL_ERR_GBSETTING2' => 'កំហុស! ការកំណត់រចនាសម្ព័ន្ធនេះត្រូវបានប្រើប្រាស់រួចហើយ។',
 );
