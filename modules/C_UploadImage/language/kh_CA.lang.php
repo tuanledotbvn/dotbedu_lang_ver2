@@ -1,7 +1,7 @@
 <?php
 
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'អ្នកប្រើប្រាស់ ID ដែលបានកំណត់',
+  'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
   'LBL_ASSIGNED_TO_NAME' => 'ចាត់តាំងឱ្យទៅ',
   'LBL_TAGS_LINK' => 'ស្លាក',
   'LBL_TAGS' => 'ស្លាក',
@@ -52,7 +52,7 @@ $mod_strings = array (
   'LBL_FILE_UPLOAD' => 'ឯកសារ:',
   'LBL_DOC_VERSION' => 'ការពិនិត្យ​ឡើងវិញ:',
   'LBL_CATEGORY_VALUE' => 'ប្រភេទ:',
-  'LBL_SUBCATEGORY_VALUE' => 'ប្រភេទ SUSS:',
+  'LBL_SUBCATEGORY_VALUE' => 'ប្រភេទរង:',
   'LBL_DOC_STATUS' => 'ស្ថានភាព:',
   'LBL_DET_TEMPLATE_TYPE' => 'ប្រភេទ​ឯកសារ:',
   'LBL_TEAM' => 'មជ្ឈមណ្ឌល',
