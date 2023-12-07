@@ -275,7 +275,7 @@ You may apply a predefined template using the Template button or include one of 
   'LBL_MODULE_NAME_SINGULAR_NEW' => 'Archive Email',
   'LBL_MODULE_TITLE' => 'Emails: ',
   'LBL_MORE_OPTIONS' => 'More',
-  'LBL_MOVE_TO_BCC' => 'Move To Bcc',
+  'LBL_MOVE_TO_BCC' => 'ផ្លាស់ទី​ទៅ Bcc',
   'LBL_MY_EMAILS' => 'My Emails',
   'LBL_NEW' => 'New',
   'LBL_NEW_FORM_TITLE' => 'Archive Email',
