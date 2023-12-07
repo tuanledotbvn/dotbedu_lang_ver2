@@ -1,7 +1,7 @@
 <?php
 $mod_strings = array(
-    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
-    'LBL_ADDRESS_INFORMATION' => 'អាសយដ្ឋាន (អេស)',
+    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាពស្ទ្រីម',
+    'LBL_ADDRESS_INFORMATION' => 'អាសយដ្ឋាន',
     'LBL_ALT_ADDRESS' => 'អាសយដ្ឋានជំនួស',
     'LBL_ALT_ADDRESS_CITY' => 'ទីក្រុងជំនួស',
     'LBL_ALT_ADDRESS_COUNTRY' => 'ប្រទេសជំនួស',
@@ -34,11 +34,11 @@ $mod_strings = array(
     'LBL_DESCRIPTION' => 'ការពិពណ៌នា',
     'LBL_DOB' => 'ថ្ងៃខែ​ឆ្នាំ​កំណើត',
     'LBL_DOC_OWNER' => 'ម្ចាស់ឯកសារ',
-    'LBL_DO_NOT_CALL' => 'កុំហៅ',
+    'LBL_DO_NOT_CALL' => 'កុំទូរស័ព្ទ',
     'LBL_EDIT_BUTTON' => 'កែប្រែ',
     'LBL_EMAIL' => 'អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល:',
-    'LBL_EMAIL_ADDRESS' => 'អាសយដ្ឋានអ៊ីម៉ែល (អេស)',
-    'LBL_EMAIL_ADDRESSES' => 'អាសយដ្ឋានអ៊ីម៉ែល (អេស)',
+    'LBL_EMAIL_ADDRESS' => 'អាសយដ្ឋានអ៊ីម៉ែល ',
+    'LBL_EMAIL_ADDRESSES' => 'អាសយដ្ឋានអ៊ីម៉ែល ',
     'LBL_EMAIL_NON_PRIMARY' => 'អ៊ីមែលមិនមែនបឋម',
     'LBL_EMAIL_OPT_OUT' => 'អ៊ីមែលបដិសេធចេញ:',
     'LBL_EXPERIENCE' => 'បទពិសោធន៍',
@@ -158,5 +158,5 @@ $mod_strings = array(
     'LBL_LMS_USER_PASSWORD' => 'ពាក្យសម្ងាត់លំនាំដើមរបស់អិល។ ',
     'LBL_WORK_PERMIT' => 'លិខិតអនុញ្ញាតិការងារ',
     'LBL_EXPENSE' => 'ការចំណាយ',
-    'LBL_COVER_APP' => 'កម្មវិធី | គ្របដណ្តប់រូបភាព',
+    'LBL_COVER_APP' => 'App| រូបភាពCover',
 );
