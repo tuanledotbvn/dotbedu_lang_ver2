@@ -1,7 +1,7 @@
 <?php
 $mod_strings = array(
-    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
-    'LBL_ASSIGNED_TO_ID' => 'អ្នកប្រើប្រាស់ ID ដែលបានកំណត់',
+    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាពស្ទ្រីម',
+    'LBL_ASSIGNED_TO_ID' => ' ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
     'LBL_ASSIGNED_TO_NAME' => 'ចាត់តាំងឱ្យទៅ',
     'LBL_CAPACITY' => 'សមត្ថភាព',
     'LBL_CLASS_NAME' => 'ថ្នាក់',
@@ -50,7 +50,7 @@ $mod_strings = array(
     'LNK_NEW_RECORD' => 'បង្កើតបន្ទប់',
     'LBL_ONL_UID' => 'ការរៀនសូត្រតាមអ៊ិនធរណេត UID',
     'LBL_CLASSIN_HOST_ID' => 'ClassIn ទូរស័ព្ទដៃ',
-    'LBL_CLASSIN_HOST_PREFIX' => 'បុព្វបទម៉ាស៊ីន ClassIn',
+    'LBL_CLASSIN_HOST_PREFIX' => 'ClassIn Host Prefix',
     'LBL_TYPE' => 'ប្រភេទ',
     'LBL_ONLINE_MEETING_TYPE' => 'ការប្រជុំតាមអ៊ីនធឺណិត',
     'LBL_CLASSIN_USER_TYPE' => 'ប្រភេទអ្នកប្រើប្រាស់ ClassIn',
