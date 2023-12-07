@@ -1,7 +1,7 @@
 <?php
 
 $mod_strings=array (
-  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
+  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាពស្ទ្រីម',
   'LBL_ADD_DATE' => 'បន្ថែមកាលបរិច្ឆេទ',
   'LBL_ASSIGNED_TO_ID' => 'អ្នកប្រើប្រាស់ ID ដែលបានកំណត់',
   'LBL_ASSIGNED_TO_NAME' => 'ចាត់តាំងឱ្យទៅ',
