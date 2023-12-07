@@ -66,6 +66,6 @@ $mod_strings = array(
     'LBL_CHECK_IN_TIME' => 'មូលប្បទានប័ត្រទាន់ពេល',
     'LBL_CHECK_OUT_TIME' => 'សូមពិនិត្យមើលពេលវេលា',
     'LBL_SMS_CONTENT' => 'មាតិកាសារ SMS',
-    'LBL_CHECK_OUT_NAME' => 'សូមពិនិត្យមើលពេលវេលា',
-    'LBL_CHECK_IN_NAME' => 'មូលប្បទានប័ត្រទាន់ពេល',
+    'LBL_CHECK_OUT_NAME' => 'ពេលវេលា CheckOut',
+    'LBL_CHECK_IN_NAME' => 'ពេលវេលា CheckIn',
 );
