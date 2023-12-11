@@ -2,10 +2,10 @@
 $mod_strings = array(
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
     'LBL_APPLY_DATE' => 'កាលបរិច្ឆេទដាក់ពាក្យ',
-    'LBL_ASSIGNED_TO_ID' => 'លេខសម្គាល់អ្នកប្រើប្រាស់ដែលបានចាត់តាំង',
+    'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានចាត់តាំង',
     'LBL_ASSIGNED_TO_NAME' => 'បានចាត់តាំងឱ្យ',
     'LBL_CREATED' => 'បង្កើតដោយ',
-    'LBL_CREATED_ID' => 'បង្កើតដោយលេខសម្គាល់',
+    'LBL_CREATED_ID' => 'បង្កើតដោយ ID',
     'LBL_CREATED_USER' => 'បង្កើតដោយអ្នកប្រើប្រាស់',
     'LBL_DATE_ENTERED' => 'កាលបរិច្ឆេទបង្កើត',
     'LBL_DATE_MODIFIED' => 'កាលបរិច្ឆេទដែលបានកែប្រែ',
