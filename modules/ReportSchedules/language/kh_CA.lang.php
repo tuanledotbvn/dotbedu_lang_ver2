@@ -2,7 +2,7 @@
 
 $mod_strings=array (
   'LBL_ACTIVE' => 'សកម្ម',
-  'LBL_ASSIGNED_TO_ID' => 'អ្នកប្រើប្រាស់ដែលបានកំណត់ Id',
+  'LBL_ASSIGNED_TO_ID' => 'Id អ្នកប្រើប្រាស់ដែលបានកំណត់ ',
   'LBL_ASSIGNED_TO_NAME' => 'បានចាត់តាំងឱ្យ',
   'LBL_CREATED' => 'បង្កើត​ឡើង​ដោយ',
   'LBL_CREATED_ID' => 'បង្កើត​ឡើង​ដោយ Id',
@@ -14,7 +14,7 @@ $mod_strings=array (
   'LBL_DESCRIPTION' => 'ការពិពណ៌នា',
   'LBL_DOC_OWNER' => 'ម្ចាស់ឯកសារ',
   'LBL_EDIT_BUTTON' => 'កែសម្រួល',
-  'LBL_EXPORT_MODIFIED_BY_NAME' => 'កែប្រែតាមឈ្មោះ',
+  'LBL_EXPORT_MODIFIED_BY_NAME' => 'កែប្រែដោយឈ្មោះ',
   'LBL_FILTER_BY_REPORT' => 'តាមរបាយការណ៍',
   'LBL_ID' => 'ID',
   'LBL_LIST_NAME' => 'ឈ្មោះ',
@@ -27,7 +27,7 @@ $mod_strings=array (
   'LBL_MODULE_NAME' => 'របាយការណ៍កាលវិភាគ',
   'LBL_MODULE_NAME_SINGULAR' => 'កាលវិភាគរាយការណ៍',
   'LBL_NAME' => 'ឈ្មោះ',
-  'LBL_NEXT_RUN' => 'បន្ទាប់បិនេហ run-time',
+  'LBL_NEXT_RUN' => 'ពេលដំណើរការបន្ទាប់',
   'LBL_RECENTLY_MODIFIED' => 'បានកែប្រែថ្មីៗ',
   'LBL_RECORD_SAVED_SUCCESS' => 'អ្នកបានបង្កើត {{moduleSingularLower}} ដោយជោគជ័យ <a href="#{{buildRoute model=this}}">{{name}}</a> ។ បើកកាលវិភាគដើម្បីបន្ថែមអ្នកប្រើប្រាស់តាមរយៈផ្ទាំងរងអ្នកប្រើប្រាស់។',
   'LBL_REMOVE' => 'លុបចេញ',
