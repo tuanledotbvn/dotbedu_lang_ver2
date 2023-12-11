@@ -1,8 +1,8 @@
 <?php
 $mod_strings = array(
-    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
+    'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាពស្ទ្រីម',
     'LBL_AMOUNT' => 'ចំនួន',
-    'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+    'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
     'LBL_ASSIGNED_TO_NAME' => 'បានចាត់តាំងឱ្យ',
     'LBL_CREATED' => 'បង្កើតដោយ',
     'LBL_CREATED_ID' => 'បង្កើតដោយលេខសម្គាល់',
