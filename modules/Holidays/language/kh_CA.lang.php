@@ -1,7 +1,7 @@
 <?php
 
 $mod_strings=array (
-  'LBL_APPLY_FOR' => 'ដាក់ពាក្យសុំ',
+  'LBL_APPLY_FOR' => 'ដាក់ពាក្យ​សម្រាប់',
   'LBL_CONTACT' => 'ទំនាក់ទំនង',
   'LBL_DESCRIPTION' => 'ការពិពណ៌នា៖ ',
   'LBL_HOLIDAY' => 'ថ្ងៃឈប់សម្រាក៖ ',
