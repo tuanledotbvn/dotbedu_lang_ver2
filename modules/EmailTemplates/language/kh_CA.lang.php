@@ -1,7 +1,7 @@
 <?php
 
 $mod_strings=array (
-  'LBL_ACCOUNT' => 'ក្រុមហ៊ុន',
+  'LBL_ACCOUNT' => 'គណនី',
   'LBL_ACTIVITIES_REPORTS' => 'របាយការណ៍សកម្មភាព',
   'LBL_ADD_ANOTHER_FILE' => 'បន្ថែមឯកសារផ្សេងទៀត',
   'LBL_ADD_DOCUMENT' => 'បន្ថែមឯកសារ EMS',
