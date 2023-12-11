@@ -30,6 +30,6 @@ $mod_strings=array (
   'LBL_TAGS_LINK' => 'Tags',
   'LBL_UPLOAD_ONLY_IMAGE' => 'ឯកសារដែលបានជ្រើសរើសគួរតែជារូបភាព។',
   'LBL_USER_FAVORITES' => 'អ្នកប្រើប្រាស់ដែលចូលចិត្ត',
-  'LNK_LIST_EMBEDDED_FILE' => 'កមហើញ Embedded Files',
+  'LNK_LIST_EMBEDDED_FILE' => 'មើល Embedded Files',
   'LNK_NEW_EMBEDDED_FILE' => 'បង្កើត Embedded File',
 );
