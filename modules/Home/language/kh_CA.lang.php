@@ -242,10 +242,10 @@ $mod_strings=array (
   'TPL_LANGUAGE_PACKS_PROVIDED_BY' => 'ផ្តល់ដោយ {{{link}}}',
   'dashlet_categories_dom' =>
   array (
-    'Module Views' => 'Module ទស្សនៈ',
-    'Portal' => 'ផត្យា',
-    'Charts' => 'គំនូសតាង',
+    'Module Views' => 'Module Views',
+    'Portal' => 'Portal',
+    'Charts' => 'តារាង',
     'Tools' => 'ឧបករណ៍',
-    'Miscellaneous' => 'ដេលមានផ្នេកខុសក្នា',
+    'Miscellaneous' => 'ផ្សេងៗ',
   ),
 );
