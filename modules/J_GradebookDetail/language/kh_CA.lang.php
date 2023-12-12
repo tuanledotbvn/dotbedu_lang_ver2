@@ -2,7 +2,7 @@
 
 $mod_strings = array(
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាព',
-  'LBL_ASSIGNED_TO_ID' => 'លេខសម្គាល់អ្នកទទួលការ',
+  'LBL_ASSIGNED_TO_ID' => 'ID អ្នកទទួលការ',
   'LBL_ASSIGNED_TO_NAME' => 'អ្នកទទួលបន្ទុក',
   'LBL_CERTIFICATE_LEVEL' => 'Certificate Level',
   'LBL_CERTIFICATE_TYPE' => 'Certificate Type',
@@ -28,7 +28,7 @@ $mod_strings = array(
   'LBL_J_CLASS_RELATE_FIELD' => 'ថ្នាក់',
   'LBL_J_GRADEBOOKDETAIL_SUBPANEL_TITLE' => 'Gradebook Details',
   'LBL_LIST_FORM_TITLE' => 'បញ្ជី',
-  'LBL_LIST_NAME' => 'ឈ្មោះលម្អិត',
+  'LBL_LIST_NAME' => 'ឈ្មោះ',
   'LBL_LOCKED_FIELDS' => 'ការអនុញ្ញាតការកែសម្រួលត្រូវបានចាក់សោ',
   'LBL_LOCKED_FIELDS_LINK' => 'ការអនុញ្ញាតការកែសម្រួលត្រូវបានចាក់សោ',
   'LBL_MODIFIED' => 'កែសម្រួលដោយ',
