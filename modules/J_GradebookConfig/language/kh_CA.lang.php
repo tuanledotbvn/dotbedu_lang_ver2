@@ -1,8 +1,8 @@
 <?php
 $mod_strings = array(
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាព',
-    'LBL_ASSIGNED_TO_ID' => 'លេខសម្គាល់អ្នកទទួលការ',
-    'LBL_ASSIGNED_TO_NAME' => 'អ្នកទទួលបន្ទុក',
+    'LBL_ASSIGNED_TO_ID' => 'ID អ្នកទទួលការ',
+    'LBL_ASSIGNED_TO_NAME' => 'ចាត់តាំងឱ្យ',
     'LBL_CLEAR' => 'ជម្រះ',
     'LBL_CONTENT' => 'មាតិកា',
     'LBL_CREATED' => 'បង្កើតដោយ',
