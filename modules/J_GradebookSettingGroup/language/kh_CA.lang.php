@@ -15,7 +15,7 @@ $mod_strings = array(
   'LBL_MODIFIED_ID' => 'កែសម្រួលដោយលេខសម្គាល់',
   'LBL_MODIFIED_NAME' => 'កែសម្រួលតាមឈ្មោះ',
   'LBL_CREATED' => 'បង្កើតដោយ',
-  'LBL_CREATED_ID' => 'Tạo bởi Id',
+  'LBL_CREATED_ID' => 'បង្កើតដោយ Id',
   'LBL_DOC_OWNER' => 'ម្ចាស់ឯកសារ',
   'LBL_USER_FAVORITES' => 'អ្នកប្រើប្រាស់ដែលចូលចិត្ត',
   'LBL_DESCRIPTION' => 'ការពិពណ៌នា',
@@ -44,5 +44,5 @@ $mod_strings = array(
   'LBL_IMPORT' => 'នាំចូលការកំណត់រចនាសម្ព័ន្ធក្រុមតារាងពិន្ទុ',
   'LBL_IMPORT_VCARDTEXT' => 'បង្កើតក្រុមកំណត់សៀវភៅថ្នាក់ដោយស្វ័យប្រវត្តិពី vCard ។',
   'LBL_GBCONFIG' => 'ការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុ',
-  'LBL_COPY_GBSETTING' => 'ចម្លងរចនាសម្ព័ន្ធប្រតិចារិក',
+  'LBL_COPY_GBSETTING' => 'ចម្លងការកំណត់សៀវភៅថ្នាក់',
 );
