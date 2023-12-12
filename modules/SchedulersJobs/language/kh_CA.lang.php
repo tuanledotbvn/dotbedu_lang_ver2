@@ -22,7 +22,7 @@ $mod_strings=array (
   'LBL_CONFIG_AMAZON_SQS_SECTION' => 'ការកំណត់រចនាសម្ព័ន្ធ Amazon-sqs',
   'LBL_CONFIG_AMAZON_SQS_TEXT' => '<p><b>ផ្នែកកំណត់រចនាសម្ព័ន្ធ Amazon SQS ។</b></p>
 <ul>
-    <li>ចូលប្រើកូនសោ ID: <i>បញ្ចូលលេខសម្គាល់សោចូលដំណើរការរបស់អ្នកសម្រាប់ Amazon SQS</i></li>
+    <li>ID ជួរការងារសម្អាត: <i>បញ្ចូលល ID សោចូលដំណើរការរបស់អ្នកសម្រាប់ Amazon SQS</i></li>
     <li>Secret Access Key៖ <i>បញ្ចូលសោចូលសម្ងាត់របស់អ្នកសម្រាប់ Amazon SQS</i></li>
     <li>តំបន់៖ <i>បញ្ចូលតំបន់នៃម៉ាស៊ីនមេ Amazon SQS</i></li>
     <li>ឈ្មោះជួរ៖ <i>បញ្ចូលឈ្មោះជួរនៃម៉ាស៊ីនមេ Amazon SQS</i></li>
@@ -48,7 +48,7 @@ $mod_strings=array (
   'LBL_CONFIG_QUEUE_TYPE' => 'Adapter',
   'LBL_CONFIG_SERVERS_TEXT' => '<p><b>ផ្នែកកំណត់រចនាសម្ព័ន្ធចម្បង។</b></p>
   <ul>
-       <li>អ្នករត់៖
+       <li>Runner៖
        <ul>
        <li><i>ស្តង់ដារ</i> - ប្រើដំណើរការតែមួយសម្រាប់កម្មករ។</li>
        <li><i>ប៉ារ៉ាឡែល</i> - ប្រើដំណើរការមួយចំនួនសម្រាប់កម្មករ។</li>
