@@ -21,5 +21,5 @@ $mod_strings = array(
     'LBL_TEAMS' => '7. សាខា',
     'LBL_START_DATE' => '8. កាលបរិច្ឆេទចាប់ផ្តើម',
     'LBL_IS_CUSTOMER_JOURNEY_ACTIVITY' => '9. បញ្ចូលទៅក្នុង CJ?',
-    'LBL_CUSTOMER_JOURNEY_TYPE' => '9. បញ្ចូលទៅក្នុង CJ?',
+    'LBL_CUSTOMER_JOURNEY_TYPE' => 'ប្រភេទកិច្ចការ CJ',
 );
