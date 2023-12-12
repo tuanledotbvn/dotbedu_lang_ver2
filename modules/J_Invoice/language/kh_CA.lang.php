@@ -1,6 +1,6 @@
 <?php
 $mod_strings = array(
-    'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+    'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
      'LBL_ASSIGNED_TO_NAME' => 'អ្នកទទួលបន្ទុក',
      'LBL_TAGS_LINK' => 'Tags',
      'LBL_TAGS' => 'Tags',
@@ -31,7 +31,7 @@ $mod_strings = array(
      'LBL_MODULE_NAME' => 'វិក្កយបត្រ',
      'LBL_MODULE_TITLE' => 'វិក្កយបត្រ',
      'LBL_MODULE_NAME_SINGULAR' => 'វិក្កយបត្រ',
-     'LBL_HOMEPAGE_TITLE' => 'M Invoice',
+     'LBL_HOMEPAGE_TITLE' => 'វិក័យប័ត្ររបស់ខ្ញុំ',
      'LNK_NEW_RECORD' => 'បង្កើតវិក្កយបត្រថ្មី',
      'LNK_LIST' => 'មើលវិក្កយបត្រ',
      'LNK_IMPORT_J_INVOICE' => 'នាំចូលវិក្កយបត្រ',
@@ -42,7 +42,7 @@ $mod_strings = array(
      'LBL_NEW_FORM_TITLE' => 'វិក្កយបត្រថ្មី',
      'LNK_IMPORT_VCARD' => 'ការនាំចូលវិក្កយបត្រ vCard',
      'LBL_IMPORT' => 'ការនាំចូលវិក្កយបត្រ',
-     'LBL_IMPORT_VCARDTEXT' => 'Automatically create a new  វិក័យប័រត record by importing a vCard from your file system.',
+     'LBL_IMPORT_VCARDTEXT' => 'បង្កើតកំណត់ត្រាវិក្កយបត្រថ្មីដោយស្វ័យប្រវត្តិដោយនាំចូល vCard ពីប្រព័ន្ធឯកសាររបស់អ្នក។',
      'LBL_INVOICE_DATE' => 'កាលបរិច្ឆេទចេញវិក្កយបត្រ',
      'LBL_BEFORE_DISCOUNT' => 'មុនការបញ្ចុះតម្លៃ',
      'LBL_DISCOUNT_AMOUNT' => 'បញ្ចុះតម្លៃ',
