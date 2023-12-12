@@ -203,7 +203,7 @@ $mod_strings=array (
 អ្នកអាចអនុវត្តគំរូដែលបានកំណត់ជាមុនដោយប្រើប៊ូតុងគំរូ ឬរួមបញ្ចូលហត្ថលេខាណាមួយរបស់អ្នកដោយប្រើប៊ូតុងហត្ថលេខា។ ប្រើប៊ូតុងអាប់ឡូតថ្មី ដើម្បីបន្ថែមឯកសារភ្ជាប់ទៅអ៊ីមែល។',
   'LBL_HELP_COMPOSE_TITLE' => 'សរសេរអ៊ីមែល',
   'LBL_HTML_BODY' => 'តួ HTML',
-  'LBL_ID_MISMATCH' => 'NOOP: ID ករចឹល',
+  'LBL_ID_MISMATCH' => 'NOOP: ID មិនត្រូវគ្នា។',
   'LBL_IMPORT_STATUS_TITLE' => 'ស្ថានភាព',
   'LBL_INBOUND_TITLE' => 'អ៊ីមែលចូល',
   'LBL_INTENT' => 'ចេតនា',
