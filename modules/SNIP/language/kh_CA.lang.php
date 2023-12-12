@@ -44,7 +44,7 @@ $mod_strings=array (
   'LBL_SNIP_STATUS_OK_SUMMARY' => 'វត្ថុ Dotb នេះត្រូវបានភ្ជាប់ដោយជោគជ័យទៅម៉ាស៊ីនមេផ្ទុកឯកសារ Email ។',
   'LBL_SNIP_STATUS_PINGBACK_FAIL' => 'Pingback បានបរាជ័យ',
   'LBL_SNIP_STATUS_PINGBACK_FAIL_SUMMARY' => 'ម៉ាស៊ីនមេផ្ទុកឯកសារ Email មិនអាចបង្កើតការតភ្ជាប់ជាមួយឧទាហរណ៍ Dotb របស់អ្នកបានទេ។ សូមព្យាយាមម្តងទៀត ឬ <a href="http://www.dotb.vn/crm/case-tracker/submit.html?lsd=supportportal&tmpl=" target="_blank">ទាក់ទងផ្នែកជំនួយអតិថិជន</a>។',
-  'LBL_SNIP_STATUS_PROBLEM' => 'បញ្ហា៖ %s',
+  'LBL_SNIP_STATUS_PROBLEM' => 'បញ្ហា៖',
   'LBL_SNIP_STATUS_RESET' => 'មិនទាន់ដំណើរការទេ',
   'LBL_SNIP_STATUS_SUMMARY' => 'Email ស្ថានភាពសេវាកម្មទុកក្នុងប័ណ្ណសារ៖',
   'LBL_SNIP_SUMMARY' => 'Email Archiving គឺជាសេវាកម្មនាំចូលដោយស្វ័យប្រវត្តិ ដែលអនុញ្ញាតឱ្យអ្នកប្រើប្រាស់នាំចូល emails ចូលទៅក្នុង Dotb ដោយផ្ញើពួកវាពីកម្មវិធីអ៊ីមែល ឬសេវាកម្មណាមួយទៅកាន់អាសយដ្ឋាន email ដែលផ្តល់ដោយ Dotb ។ ឧទាហរណ៍ Dotb នីមួយៗមានអាសយដ្ឋាន email ផ្ទាល់ខ្លួន។ ដើម្បីនាំចូល emails អ្នកប្រើប្រាស់ផ្ញើទៅកាន់អាសយដ្ឋាន email ដែលបានផ្តល់ឱ្យដោយប្រើវាល TO, CC, BCC ។ សេវាកម្មរក្សាទុកឯកសារ Email នឹងនាំចូល email ទៅក្នុងឧទាហរណ៍ Dotb ។ សេវាកម្មនាំចូល email រួមជាមួយនឹងឯកសារភ្ជាប់ រូបភាព និងព្រឹត្តិការណ៍ប្រតិទិន ហើយបង្កើតកំណត់ត្រានៅក្នុងកម្មវិធីដែលត្រូវបានភ្ជាប់ជាមួយកំណត់ត្រាដែលមានស្រាប់ដោយផ្អែកលើអាសយដ្ឋាន email ដែលផ្គូផ្គង។
