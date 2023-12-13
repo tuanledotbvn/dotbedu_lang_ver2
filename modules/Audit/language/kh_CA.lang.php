@@ -1,15 +1,15 @@
 <?php
 
 $mod_strings=array (
-  'LBL_AUDITED_FIELDS' => 'Fields audited in this module: ',
-  'LBL_AUDIT_TITLE' => 'Change Log',
-  'LBL_CHANGE_LOG' => 'Change Log',
-  'LBL_CREATED_BY' => 'Changed By',
-  'LBL_CURRENCY_CONVERSION_TEXT' => 'When audited currency fields are saved in a non-system-default currency, the change log will display the old and new values in the converted, system-defined default currency.',
+  'LBL_AUDITED_FIELDS' => 'វាលដែលបានធ្វើសវនកម្មនៅក្នុងម៉ូឌុលនេះ៖ ',
+  'LBL_AUDIT_TITLE' => 'ផ្លាស់ប្តូរកំណត់ហេតុ',
+  'LBL_CHANGE_LOG' => 'ផ្លាស់ប្តូរកំណត់ហេតុ',
+  'LBL_CREATED_BY' => 'បានផ្លាស់ប្តូរដោយ',
+  'LBL_CURRENCY_CONVERSION_TEXT' => 'នៅពេលដែលវាលរូបិយប័ណ្ណដែលបានធ្វើសវនកម្មត្រូវបានរក្សាទុកជារូបិយប័ណ្ណលំនាំដើមដែលមិនមែនជាប្រព័ន្ធ កំណត់ហេតុនៃការផ្លាស់ប្តូរនឹងបង្ហាញតម្លៃចាស់ និងថ្មីនៅក្នុងរូបិយប័ណ្ណលំនាំដើមដែលបានកំណត់ដោយប្រព័ន្ធដែលបានបំប្លែង។',
   'LBL_FIELD_NAME' => 'Field',
-  'LBL_LIST_DATE' => 'Change Date',
-  'LBL_NEW_VALUE' => 'New Value',
-  'LBL_NO_AUDITED_FIELDS_TEXT' => 'There are no fields audited in this module',
-  'LBL_OLD_NAME' => 'Old Value',
-  'LBL_SOURCE_FIELD' => 'Source',
+  'LBL_LIST_DATE' => 'ផ្លាស់ប្តូរកាលបរិច្ឆេទ',
+  'LBL_NEW_VALUE' => 'តម្លៃថ្មី',
+  'LBL_NO_AUDITED_FIELDS_TEXT' => 'មិនមានវាលដែលត្រូវបានធ្វើសវនកម្មនៅក្នុងម៉ូឌុលនេះទេ។',
+  'LBL_OLD_NAME' => 'តម្លៃចាស់',
+  'LBL_SOURCE_FIELD' => 'ប្រភព',
 );

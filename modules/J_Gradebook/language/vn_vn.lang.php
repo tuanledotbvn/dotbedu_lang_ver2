@@ -1,6 +1,6 @@
 <?php
 
-$mod_strings=array (
+$mod_strings = array (
   'DEF_CREATE_LOG' => 'Document Created',
   'ERR_DOC_ACTIVE_DATE' => 'Publish Date',
   'ERR_DOC_EXP_DATE' => 'Expiration Date',
@@ -52,7 +52,6 @@ $mod_strings=array (
   'LBL_FILE_UPLOAD' => 'File:',
   'LBL_FIND' => 'Tải bảng điểm',
   'LBL_GRADEBOOKCONFIG_NAME' => 'Cấu hình bảng điểm',
-  'LBL_GRADEBOOK_DETAIL' => 'Chi tiết điểm',
   'LBL_GRADEBOOK_NOT_FOUND' => 'Không tìm thấy bảng điểm!',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'Xem lịch sử',
   'LBL_HOMEPAGE_TITLE' => 'Bảng điểm',
@@ -128,7 +127,6 @@ $mod_strings=array (
   'LNK_VIEWCONFIG' => 'Xem cấu hình',
   'LBL_DATETIME_NOTIFY_SENT' => 'Ngày gửi thông báo ứng dụng',
   'LBL_DATE_EXAM' => 'Ngày thi',
-
   'LBL_ACTION' => 'Hành động',
   'LBL_TEACHER_COMMENT' => 'Nhận xét giáo viên',
   'LBL_DOWNLOAD_FILE' => 'Tải xuống mẫu import',
