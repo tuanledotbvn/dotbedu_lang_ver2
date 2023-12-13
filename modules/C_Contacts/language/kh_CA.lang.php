@@ -2,7 +2,7 @@
 $mod_strings = array(
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'ស្ទ្រីមសកម្មភាព',
     'LBL_ADDRESS' => 'អាសយដ្ឋាន',
-    'LBL_ASSIGNED_TO_ID' => ' ID អ្នកប្រើប្រាស់ដែលបានកំណត់'
+    'LBL_ASSIGNED_TO_ID' => ' ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
     'LBL_ASSIGNED_TO_NAME' => 'ចាត់តាំងឱ្យទៅ',
     'LBL_CREATED' => 'បង្កើត​ឡើង​ដោយ',
     'LBL_CREATED_ID' => 'បង្កើត​ដោយ ID',
