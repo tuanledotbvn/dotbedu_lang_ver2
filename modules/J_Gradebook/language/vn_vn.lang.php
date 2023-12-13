@@ -1,6 +1,6 @@
 <?php
 
-$mod_strings = array(
+$mod_strings = array (
   'DEF_CREATE_LOG' => 'Document Created',
   'ERR_DOC_ACTIVE_DATE' => 'Publish Date',
   'ERR_DOC_EXP_DATE' => 'Expiration Date',

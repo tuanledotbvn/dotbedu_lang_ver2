@@ -174,6 +174,7 @@ $mod_strings = array(
     'LBL_LATEST_REVISION' => 'ការពិនិត្យឡើងវិញចុងក្រោយ',
     'LBL_LESSON' => 'មេរ្យេន',
     'LBL_LESSON_RANGE_NOT_VALID' => '"មេរៀន«ត្រូវតែធំជាង "ពីមេរៀន"',
+    
     'LBL_LEVEL' => 'កម្រិត',
     'LBL_LIST_ACTIVE_DATE' => 'កាលបរិច្ឆេទផ្សព្វផ្សាយ',
     'LBL_LIST_CATEGORY' => 'ប្រភេទ',

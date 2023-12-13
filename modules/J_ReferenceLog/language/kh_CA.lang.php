@@ -44,12 +44,14 @@ $mod_strings = array (
    'LNK_IMPORT_VCARD' => 'នាំចូល vCard កំណត់ហេតុយោង',
    'LBL_IMPORT' => 'នាំចូលឯកសារយោង',
    'LBL_IMPORT_VCARDTEXT' => 'Automatically create a new Reference Log record by importing a vCard from your file system.',
+
    'LBL_HITS' => 'អន្តរកម្ម',
    'LBL_PARENT_NAME' => 'ពាក់ព័ន្ធ',
    'LBL_REFERENCE_STUDENT' => 'សិស្ស',
    'LBL_REFERENCE_LEADS' => 'HV Potential',
    'LBL_REFERENCE_PROSPECTS' => 'HV Raw',
    'LBL_CAMPAIGN_NAME' => 'ឈ្មោះយុទ្ធនាការ',
+
    'LBL_UTM_SOURCE' => 'ប្រភព UTM',
    'LBL_UTM_MEDIUM' => 'UTM Medium',
    'LBL_UTM_TERM' => 'លក្ខខណ្ឌ UTM',
@@ -61,4 +63,5 @@ $mod_strings = array (
    'LBL_SOURCE_DESCRIPTION' => 'ការពិពណ៌នាប្រភព',
    'LBL_EMAIL' => 'អ៊ីមែល',
    'LBL_PHONE_MOBILE' => 'លេខទូរស័ព្ទ',
+   
 );

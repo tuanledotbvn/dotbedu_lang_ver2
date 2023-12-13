@@ -1,6 +1,6 @@
 <?php
 
-$mod_strings = array(
+$mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
   'LBL_ASSIGNED_TO_NAME' => 'បានចាត់តាំងឱ្យ',
   'LBL_TAGS_LINK' => 'Tags',
@@ -49,10 +49,12 @@ $mod_strings = array(
   'LBL_CLASS_NAME' => 'ថ្នាក់',
   'LBL_STUDENT_TYPE' => 'ប្រភេទសិស្ស',
   'LBL_RUN_TIME' => 'កាលបរិច្ឆេទដំណើរការ',
+  
   'LBL_STATUS' => 'ស្ថានភាពក្នុងថ្នាក់',
   'LBL_COUNT_OST_COMPLETED' => 'វគ្គសរុប៖ បានបញ្ចប់ទាំងស្រុងហើយ',
   'LBL_COUNT_ERN_COMPLETED' => 'វគ្គសរុប៖ បានចុះឈ្មោះរួចរាល់',
   'LBL_COUNT_DEMO_COMPLETED' => 'វគ្គសរុប៖ សាកល្បងបានបញ្ចប់',
+
   'LBL_TOTAL_SESSION_COMPLETED' => 'វគ្គសរុបបានបញ្ចប់',
   'LBL_TOTAL_HOURS_COMPLETED' => 'ម៉ោងសរុបបានបញ្ចប់',
   'LBL_TOTAL_ATTENDED' => 'បានចូលរួមសរុប',
@@ -61,6 +63,8 @@ $mod_strings = array(
   'LBL_START_STUDY' => 'ចាប់ផ្តើមសិក្សា',
   'LBL_END_STUDY' => 'បញ្ចប់ការសិក្សា',
   'LBL_DELAY_FROM_DATE' => 'ពន្យាពេលពីកាលបរិច្ឆេទ',
+
+
   'LBL_PROCESS_ACTION' => 'Process Action',
   'LBL_MEETING_NAME' => 'Run-time Session',
   'LBL_TYPE' => 'ប្រភេទស្ថានភាពបច្ចុប្បន្ន'

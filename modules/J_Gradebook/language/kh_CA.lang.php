@@ -59,6 +59,7 @@ $mod_strings = array(
   'LBL_IMPORT' => 'ពិន្ទុបញ្ចូល',
   'LBL_IMPORT_VCARDTEXT' => 'បង្កើតកំណត់ត្រាសៀវភៅថ្នាក់ថ្មីដោយស្វ័យប្រវត្តិដោយការនាំចូល vCard ពីប្រព័ន្ធឯកសាររបស់អ្នក។',
   'LBL_IS_TEMPLATE' => 'Is a Template',
+  
   'LBL_J_GRADEBOOK_SUBPANEL_TITLE' => 'សៀវភៅសិក្សា',
   'LBL_LATEST_REVISION' => 'Latest Revision',
   'LBL_LIST_ACTIVE_DATE' => 'Publish Date',
@@ -126,6 +127,7 @@ $mod_strings = array(
   'LNK_VIEWCONFIG' => 'មើលការកំណត់រចនាសម្ព័ន្ធ',
   'LBL_DATETIME_NOTIFY_SENT' => 'កាលបរិច្ឆេទផ្ញើការជូនដំណឹងកម្មវិធី',
   'LBL_DATE_EXAM' => 'កាលបរិច្ឆេទប្រឡង',
+
   'LBL_ACTION' => 'សកម្មភាព',
   'LBL_TEACHER_COMMENT' => 'មតិរបស់គ្រូ',
   'LBL_DOWNLOAD_FILE' => 'ទាញយកគំរូimport',
@@ -147,6 +149,7 @@ $mod_strings = array(
   'LBL_STUDENT_ALERT5' => 'ការផ្ញើសារទៅកម្មវិធីសិស្សបានបរាជ័យ សូមព្យាយាមម្តងទៀត!',
   'LBL_ERROR_OCCURRED' => 'មានកំហុសកើតឡើង សូមព្យាយាមម្តងទៀត។',
   'LBL_LISTVIEW_FILTER_ALL' => 'ប្រតិចារិកទាំងអស់',
+
   'LBL_ALERT_REMOVE' => 'តើអ្នកប្រាកដថាចង់ដកសិស្សចេញពីប្រតិចារិកនេះទេ?',
   'LBL_ALERT_DELETE_DB' => 'តើអ្នកប្រាកដថាចង់លុបតារាងពិន្ទុនេះទេ?',
   'LBL_ALERT_DELETED' => 'តារាងពិន្ទុត្រូវបានលុប។',
@@ -158,6 +161,7 @@ $mod_strings = array(
   'LBL_IMPORT_GB' => 'បញ្ចូលប្រតិចារិកពី file',
   'LBL_GRADEBOOK_DETAIL' => 'ព័ត៌មានលម្អិតតារាងពិន្ទុ',
   'LBL_ALERT_VALID_INPUT' => 'សូមបញ្ចូលតម្លៃត្រឹមត្រូវ',
+
   'LBL_ERR_GBSETTING1' => 'កំហុស! មិនមានការកំណត់រចនាសម្ព័ន្ធតារាងពិន្ទុទេ។',
   'LBL_ERR_GBSETTING2' => 'កំហុស! ការកំណត់រចនាសម្ព័ន្ធនេះត្រូវបានប្រើប្រាស់រួចហើយ។',
 );

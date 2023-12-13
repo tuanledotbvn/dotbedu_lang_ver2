@@ -81,6 +81,7 @@ $mod_strings=array (
      'LNK_LIST' => 'មើលសាលារៀន',
      'LNK_NEW_J_SCHOOL' => 'បង្កើតសាលា',
      'LNK_NEW_RECORD' => 'បង្កើតសាលា',
+     
      'LBL_PROSPECT' => 'គោលដៅ',
      'LBL_CONTACT' => 'សិស្ស',
      'LBL_LEAD' => 'Lead',

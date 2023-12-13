@@ -56,6 +56,7 @@ $mod_strings = array(
   'LNK_IMPORT_VCARD' => 'នាំចូល vCard លម្អិតសារពើភ័ណ្ឌ',
   'LNK_LIST' => 'មើលបញ្ជីព័ត៌មានលម្អិតនៃការនាំចូល/នាំចេញ',
   'LNK_NEW_RECORD' => 'ថ្មី',
+  
   'LBL_COURSEFEE_NAME' => 'Course Fee',
   'LBL_LEVEL' => 'Level',
   'LBL_EXTERNAL_CONNECTION' => 'ការតភ្ជាប់ខាងក្រៅ',

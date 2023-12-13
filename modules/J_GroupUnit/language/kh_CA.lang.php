@@ -45,6 +45,7 @@ $mod_strings = array(
   'LBL_IMPORT_VCARDTEXT' => 'បង្កើតកំណត់ត្រាក្រុមថ្មីដោយស្វ័យប្រវត្តិដោយនាំចូល vCard ពីប្រព័ន្ធឯកសាររបស់អ្នក។',
   'LBL_PRIMARY_UNIT' => 'ឯកតាបឋម',
   'LBL_UNIT_IN_GROUP_SUBPANEL_TITLE' => 'ឯកតា / ក្រុម',
+  
   'LBL_COURSEFEE_NAME' => 'ថ្លៃសិក្សា',
   'LBL_COURSE_FEE_SUBPANEL_TITLE' => 'ថ្លៃសិក្សា',
 );

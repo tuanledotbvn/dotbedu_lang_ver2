@@ -58,6 +58,7 @@ $mod_strings=array (
   'LNK_LIST' => 'មើលអ្នកឧបត្ថម្ភ',
   'LNK_NEW_J_SPONSOR' => 'បង្កើត​អ្នក​ឧបត្ថម្ភ​ថ្មី។',
   'LNK_NEW_RECORD' => 'បង្កើត​អ្នក​ឧបត្ថម្ភ​ថ្មី។',
+  
   'LBL_STUDENT_NAME' => 'ឈ្មោះ​សិស្ស',
   'LBL_LOYALTY_POINTS' => 'ពិន្ទុបន្ថែមសម្រាប់កម្មវិធីណែនាំ',
 );

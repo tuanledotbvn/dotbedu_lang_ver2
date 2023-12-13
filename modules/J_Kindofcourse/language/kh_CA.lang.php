@@ -77,7 +77,11 @@ $mod_strings = array(
      'LBL_SYLLABUS_SYNC_ERROR' => 'ការធ្វើសមកាលកម្មបានបរាជ័យ។',
      'LBL_CLASS_UPDATED' => 'បានធ្វើបច្ចុប្បន្នភាពថ្នាក់។',
      'LBL_BTN_CREATE' => 'បង្កើត',
-     'LBL_KINDOFCOURSE_COURSEFEE_TITLE' => 'តម្លៃឯកតាសិក្សា',
-     'LBL_COURSEFEE_KINDOFCOURSE_TITLE' => 'តម្លៃឯកតាសិក្សា',
-     'LBL_LESSONPLAN' => 'ផែនការមេរៀន',
-);
+     'LBL_RELOAD_LMS_COURSE_TEMPLATE' => 'Reload LMS Course Template',
+     'LBL_RELOAD_LMS_COURSE_TEMPLATE_ALERT' => 'EMS system will reload the LMS Course Template in the Kind Of Course. This action will take time, please wait patiently.',
+     'LBL_RELOAD_LMS_COURSE_TEMPLATE_SUCCESS' => 'Reload successful.',
+     'LBL_RELOAD_LMS_COURSE_TEMPLATE_ERROR' => 'Reload failed.',
+     'LBL_KINDOFCOURSE_COURSEFEE_TITLE' => 'Course Fees',
+     'LBL_COURSEFEE_KINDOFCOURSE_TITLE' => 'Course Fees',
+     'LBL_LESSONPLAN' => 'Lesson Plan',
+ );
