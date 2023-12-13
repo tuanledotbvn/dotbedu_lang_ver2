@@ -2,7 +2,7 @@
 $mod_strings = array(
     'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាព',
     'LBL_ADMIN_HOURS' => 'Required Admin Hours',
-     'LBL_ASSIGNED_TO_ID' => 'លេខសម្គាល់អ្នកទទួលការ',
+     'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
      'LBL_CREATED' => 'បង្កើតដោយ',
      'LBL_CREATED_ID' => 'បង្កើត​ឡើង​ដោយ ID',
      'LBL_CREATED_USER' => 'អ្នកបង្កើត',
