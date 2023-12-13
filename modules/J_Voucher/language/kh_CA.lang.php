@@ -2,7 +2,7 @@
 $mod_strings = array(
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'សកម្មភាព',
   'LBL_AMOUNT_PER_USED' => 'ចំនួនទឹកប្រាក់ក្នុងការប្រើប្រាស់',
-  'LBL_ASSIGNED_TO_ID' => 'លេខសម្គាល់អ្នកទទួលការ',
+  'LBL_ASSIGNED_TO_ID' => 'ID អ្នកប្រើប្រាស់ដែលបានកំណត់',
   'LBL_CREATED' => 'បង្កើតដោយ',
   'LBL_CREATED_ID' => 'បង្កើតដោយ ID',
   'LBL_CREATED_USER' => 'អ្នកបង្កើត',
@@ -28,7 +28,7 @@ $mod_strings = array(
   'LBL_MODULE_NAME_SINGULAR' => 'លេខកូដបញ្ចុះតម្លៃ',
   'LBL_MODULE_TITLE' => 'លេខកូដបញ្ចុះតម្លៃ',
   'LBL_NEW_FORM_TITLE' => 'បង្កើតថ្មី',
-  'LBL_REDEMPT_TIME' => 'ម៉ោងប្រោសលោះ',
+  'LBL_REDEMPT_TIME' => 'Redempt Time',
   'LBL_REMOVE' => 'លុបចេញ',
   'LBL_SEARCH_FORM_TITLE' => 'ស្វែងរក',
   'LBL_SPONSOR' => 'អ្នកឧបត្ថម្ភ',
